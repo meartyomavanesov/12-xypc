@@ -1,4 +1,4 @@
-# Ticket 2: 1
+# Ticket 1: Set up new project
 
 ## Description
-1
+Set up a new project in line with the provided instructions.
